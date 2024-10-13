@@ -4,7 +4,8 @@
 
 Welcome to the Blackjack Game project! This interactive project allows you to play a classic game of Blackjack against the dealer. Using Python, we simulate the game mechanics and give you a chance to test your luck and strategy.
 
-![image]/Users/edredazziz/Downloads/edred_azziz_personal_website/assets/IMG_5136 (1).jpeg
+![IMG_5136 (2)](https://github.com/user-attachments/assets/be07a7b0-bc97-48b2-960d-15651f02291b)
+
 
 ## Project Flow
 
